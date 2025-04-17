@@ -20,7 +20,10 @@ These scripts are designed to streamline common IT workflows, enhance system man
 
 ## 📁 Folder Structure
 
-/PowerShell - All .ps1 scripts organized by function /Batch - All .bat files for automation or admin tools /Utils - Shared tools or supporting assets /Docs - Optional documentation and usage notes
+/PowerShell - All .ps1 scripts organized by function 
+/Batch - All .bat files for automation or admin tools 
+/Utils - Shared tools or supporting assets 
+/Docs - Optional documentation and usage notes
 
 
 ## 📌 Notes
