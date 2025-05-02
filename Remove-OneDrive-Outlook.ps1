@@ -1,6 +1,7 @@
 
 # ==============================================
 # Remove-OneDrive-Outlook.ps1
+# Author: Dylan Barrios
 # Fully removes OneDrive and Outlook (New)
 # Cleans up after third-party uninstallers (e.g., Revo)
 # ==============================================

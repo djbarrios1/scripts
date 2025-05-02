@@ -1,4 +1,8 @@
+# ===========================================
 # Update-M365Office.ps1
+# Author: Dylan Barrios 
+# Purpose: Update Microsoft 365
+# ===========================================
 
 Write-Host "Checking for Microsoft 365 Office update..." -ForegroundColor Cyan
 

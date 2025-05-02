@@ -1,3 +1,8 @@
+# ===========================================
+# OpenVPN Update.ps1
+# Author: Dylan Barrios | For Windows 11
+# Purpose: Update OpenVPN Client to most recent version
+# ===========================================
 try {
     # Get the installed version of OpenVPN (Option 1: from Uninstall registry key)
     $currentVersion = (Get-ItemProperty 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\OpenVPN').DisplayVersion

@@ -1,4 +1,8 @@
+# ===========================================
 # Update-All-WithOffice.ps1
+# Author: Dylan Barrios 
+# Purpose: Update all programs on a computer with chocolatey, including 365
+# ===========================================
 
 # Ensure Chocolatey is installed
 if (!(Get-Command choco -ErrorAction SilentlyContinue)) {
