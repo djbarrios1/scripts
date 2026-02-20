@@ -16,6 +16,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+[![GPLv3](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)]
+
 ---
 
 ⚠️ Some individual files or components may optionally be licensed under the MIT License for broader compatibility.  
