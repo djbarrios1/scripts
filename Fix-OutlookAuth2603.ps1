@@ -1,9 +1,3 @@
-# ===========================================
-# Fix-OutlookAuth2603.ps1
-# Author: Dylan Barrios | For Windows 11 + M365
-# Purpose: Fixes "No Network Connection [2603]" error in Outlook
-# ===========================================
-
 Write-Host "Fixing Outlook Sign-In Issues... Please wait.`n"
 
 # Ensure this is running as admin
